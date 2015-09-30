@@ -1,0 +1,22 @@
+{
+    "appKeys": {
+        "message": 1,
+        "status": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mlb406@gmail.com",
+    "longName": "random-metar",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "random-metar",
+    "uuid": "78945f50-0ba5-45c3-8e62-ab407a48bac8",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
